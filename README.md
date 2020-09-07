@@ -1,3 +1,3 @@
-# Repositório de Materiais da UC de Mecância
+# Repositório de Materiais da UC de Mecânica
 
-Este repositório é criado para facilitar acesso aos Jupyter Notebooks de Mecância
+Este repositório é criado para facilitar acesso aos Jupyter Notebooks de Mecânica
